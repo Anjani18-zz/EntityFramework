@@ -1,0 +1,11 @@
+C:\Users\Anjani.Burra\source\repos\EmployeeEntity\EmployeeEntity\bin\Debug\netcoreapp2.0\EmployeeEntity.deps.json
+C:\Users\Anjani.Burra\source\repos\EmployeeEntity\EmployeeEntity\bin\Debug\netcoreapp2.0\EmployeeEntity.runtimeconfig.json
+C:\Users\Anjani.Burra\source\repos\EmployeeEntity\EmployeeEntity\bin\Debug\netcoreapp2.0\EmployeeEntity.runtimeconfig.dev.json
+C:\Users\Anjani.Burra\source\repos\EmployeeEntity\EmployeeEntity\bin\Debug\netcoreapp2.0\EmployeeEntity.dll
+C:\Users\Anjani.Burra\source\repos\EmployeeEntity\EmployeeEntity\bin\Debug\netcoreapp2.0\EmployeeEntity.pdb
+C:\Users\Anjani.Burra\source\repos\EmployeeEntity\EmployeeEntity\obj\Debug\netcoreapp2.0\EmployeeEntity.csprojAssemblyReference.cache
+C:\Users\Anjani.Burra\source\repos\EmployeeEntity\EmployeeEntity\obj\Debug\netcoreapp2.0\EmployeeEntity.csproj.CoreCompileInputs.cache
+C:\Users\Anjani.Burra\source\repos\EmployeeEntity\EmployeeEntity\obj\Debug\netcoreapp2.0\EmployeeEntity.AssemblyInfoInputs.cache
+C:\Users\Anjani.Burra\source\repos\EmployeeEntity\EmployeeEntity\obj\Debug\netcoreapp2.0\EmployeeEntity.AssemblyInfo.cs
+C:\Users\Anjani.Burra\source\repos\EmployeeEntity\EmployeeEntity\obj\Debug\netcoreapp2.0\EmployeeEntity.dll
+C:\Users\Anjani.Burra\source\repos\EmployeeEntity\EmployeeEntity\obj\Debug\netcoreapp2.0\EmployeeEntity.pdb
